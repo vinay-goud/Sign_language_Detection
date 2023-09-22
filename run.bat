@@ -1,0 +1,2 @@
+python BILSTM.py
+pause
